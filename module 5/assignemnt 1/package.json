@@ -1,0 +1,18 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "Just an assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js"
+  },
+  "author": "Fill Freeman",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
